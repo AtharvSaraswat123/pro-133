@@ -1,0 +1,10 @@
+.heading{
+    font-size:20px;
+   color:red;
+   background-color: aqua; 
+}
+canvas{
+    color: cornflowerblue;
+    border-color: blue;
+    box-shadow: 10px 10px 10px blue;
+}
